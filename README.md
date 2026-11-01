@@ -1,4 +1,5 @@
 # 2D Solar System
+![description](images/Screenshot 2026-11-01 133930.png)
 
 A 2D solar system simulation written in C++ using OpenGL, GLFW, and GLUT. The Sun and the eight planets are animated in real time following a simplified gravitation model, with each planet's speed displayed on screen.
 
